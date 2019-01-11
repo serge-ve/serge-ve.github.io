@@ -1,7 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Hello!
 published: true
 ---
 ![Овечки]({{site.baseurl}}/_posts/VskiONSmSgs.jpg)
-
